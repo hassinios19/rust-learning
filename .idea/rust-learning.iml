@@ -7,11 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_01/hello-world/test1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_01/hello_world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_01/helloworld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_02/guessing_game/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_01/hello-world/helloworld/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_01/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_01/hello-world/test1/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_01/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/chapter_01/helloworld/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
